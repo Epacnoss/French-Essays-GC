@@ -1,3 +1,11 @@
+French Writing Exam Essay:
+Question: 'You are on holiday in the French Alps. Write an email to a French friend. Write between 80 and 130 words. You must mention at least four of the points below:'
+ - l'hôtel
+ - un repas
+ - la ville
+ - les activités
+ - un problème
+
 Cher Pierre,
 Comment ça-va ? J'espere que vous êtes bien . Je m'amuse bien car je fais du ski dans les alpes françaises . Je passe une semaine avec ma famille à Avoriaz .
 C'est un grand hôtel, qui est situé à côté de la neige. La nourriture est délicieuse et j'adore prendre la fondue . J'adore la fondue tellement .

@@ -1,11 +1,14 @@
 Latin Test 10
 
-1)  Perseus had killed Medusa. He was now returning to Greece and he was carrying the head of Medusa in a bag. On the journey he caught sight of a beautiful girl. The name of this girl was Andromena. She was terrified, becuause a monster was making for her. Perseus however saved her. He showed the head of Medusa to the monster and ?-ed it in a rock.
+1)  Perseus had killed Medusa. He was now returning to Greece and he was carrying the head of Medusa in a bag. On the journey he caught sight of a beautiful girl. The name of this girl was Andromena. She was terrified, becuause a monster was attacking her. Perseus however saved her. He showed the head of Medusa to the monster and //it changed\\ (from ?-ed it) into a rock. (48/50)
 
 2a) Pluperfect
  b) in
- c) Genetive
+ c) Genitive (sm)
  d) conspicio
 
-3a) Perseus Medusam vidit.
- b) puella perterrita portabamus.
+3a) Perseus Medusam //videt\\ (from vidit). (2/3)
+ b) puella//m\\ perterrita//m\\ portabamus. (accusative) (1/3)
+
+
+END SCORE: 51 / 56

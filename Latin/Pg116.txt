@@ -1,10 +1,13 @@
 Test 11
 
-1) Perseus, when he had saved Andromena, went back to Greece. Polydectes, when he saw Perseus, was angry. 'What are you doing here?' he shouted to Perseus. Perseus replied: 'I killed Medusa and I have her head here. Look!' Perseus showed the head of Medusa. Polydectes looked at the head and at once turned to stone.
+1) Perseus, when he had //not had - perfect tense, but in English would say plupefect. Possibly start with when\\ saved Andromena, went back to Greece. Polydectes, when he saw Perseus, was angry. 'What are you doing here?' he shouted to Perseus. //'Surely you do not have the head of Medusa.'\\ Perseus replied: 'I killed Medusa and I have her head here. Look!' Perseus showed the head of Medusa. Polydectes looked at the head and at once // he was turned to stone\\(from turned to stone). (39/45)
 
 2a) Accusative
  b) redeo
  c) 2nd Person singular
+// d) statim \\
 
 3a) Andromena insulas videt.
  b) Perseus Medusam spectabat.
+ 
+END SCORE: 48/55

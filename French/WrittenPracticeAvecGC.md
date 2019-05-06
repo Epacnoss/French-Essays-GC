@@ -40,4 +40,8 @@ Sunday, I got up very late at half-past nine! Because it was Sunday the breakfas
 
 ##         - Cook
 
-Les vacances prochaines, je vais aller au Pays de Galles a notre gîte. Il y a beaucoup de quelquechoses à faire! Mais, car c'est une vacance je vais dormir beaucoup. Ma chose préférée faire est les choses a très fort au wakeboarding et c'est très amusant et assez drôle quand une personne tombe à l'eau! Aussi j'amie faire du surf, mais je ne suis pas comme fort. Il y a beaucoup de faire à la maison aussi, comme faire de la programmation et faire la cuisine. Mais, aussi il y a des montagnes pour faire des promenades comme Snowdon, qui est le plus grand au Royaume-Uni. 
+Les vacances prochaines, je vais aller au Pays de Galles à notre gîte. Il y a beaucoup de choses à faire! Mais, car c'est une vacance je vais dormir beaucoup. Ce que j'amie faire le mieux c'est du wakeboarding qui je suis très fort à faire, et c'est très amusant et assez drôle quand une personne tombe à l'eau! J'aime aussi faire du surf, mais je ne suis pas si fort. Il y a aussi beaucoup à faire à la maison aussi, comme faire de la programmation et faire la cuisine. Mais, aussi il y a des montagnes où on peut faire des promenades comme Snowdon, qui est le plus grand au Royaume-Uni après Ben Nevis. 
+
+## Google Translate Translates: 
+
+The next vacation, I'll go to Wales to our cottage. There are plenty of things to do! But, because it's a holiday, I'm going to sleep a lot. What I do best is wakeboarding which I am very good at doing, and it's very funny and funny when someone falls into the water! I also like surfing, but I'm not that good. There is also plenty to do at home too, like doing programming and cooking. But there are also mountains where you can go for walks like Snowdon, which is the biggest in the UK after Ben Nevis.

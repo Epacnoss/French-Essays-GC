@@ -30,3 +30,12 @@ Saturday in the morning I did some programming and then I have a golf lesson wit
 Sunday, I got up very late at half-past nine! Because it was Sunday the breakfast was the pancakes! We went to the science museum and it was very interesting and quite fun. Lunch was pizza at Pizza Express. But the best thing was when we went to the mall, Westfields, to watch 'Avengers: Endgame' at the movies. And because I finished my exams, my parents said that I could eat sweets.
 
 
+# Q.3) What are you going to do in your next holiday?
+
+## - Ideas - Sleep
+
+##         - WATERSPORTS
+
+##         - Code
+
+##         - Cook

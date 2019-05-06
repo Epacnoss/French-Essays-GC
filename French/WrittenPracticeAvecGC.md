@@ -39,3 +39,5 @@ Sunday, I got up very late at half-past nine! Because it was Sunday the breakfas
 ##         - Code
 
 ##         - Cook
+
+Les vacances prochaines, je vais aller au Pays de Galles a notre gîte. Il y a beaucoup de quelquechoses à faire! Mais, car c'est une vacance je vais dormir beaucoup. Ma chose préférée faire est les choses a très fort au wakeboarding et c'est très amusant et assez drôle quand une personne tombe à l'eau! Aussi j'amie faire du surf, mais je ne suis pas comme fort. Il y a beaucoup de faire à la maison aussi, comme faire de la programmation et faire la cuisine. Mais, aussi il y a des montagnes pour faire des promenades comme Snowdon, qui est le plus grand au Royaume-Uni. 

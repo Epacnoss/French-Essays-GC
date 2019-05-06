@@ -13,3 +13,5 @@ Ma maison se trouve a Putney, dans le sud-ouest de Londres en Angleterre. Ma mai
 ##         - Code then Golf then Zoo on Sat
 
 ##         - Sun - Sci Museum / Lunch out / Westfields to go see Endgame
+
+Le weekend dernier, je me suis amusé beaucoup. Le samedi, dans le matin j'ai fait de la programmation et puis j'ai un cours du golf avec un ami qui s'appelle Rebecca. J'aime le prof car il est drôle et amusant. Je suis allé à la maison avec mon frère qui commence les cours de golf cette semaine et j'ai fait et j'ai pris mon déjeuner, qui était des œufs au bacon. C'était génial!! Puis mes parents ont dit que nous allerions au zoo. Becaucoup d'animaux étaient mignons comme les singes et les oiseaus, mais des animaux étaient un peu mal.

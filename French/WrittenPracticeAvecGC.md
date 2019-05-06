@@ -15,7 +15,7 @@ Ma maison se trouve a Putney, dans le sud-ouest de Londres en Angleterre. Ma mai
 ##         - Sun - Sci Museum / Lunch out at Pizza Express/ Westfields to go see Endgame
 
 Le weekend dernier, je me suis beaucoup amusé.
-Samedi, dans le matin j'ai fait de la programmation et puis j'ai un cours de golf avec une amie qui s'appelle Rebecca. J'aime le prof car il est drôle et amusant. Je suis allé à la maison avec mon frère qui commence les cours de golf cette semaine et j'ai préparé et j'ai pris mon déjeuner, qui était des œufs au bacon. C'était génial! Puis mes parents ont dit que nous irions au zoo. Becaucoup d'animaux étaient mignons comme les singes et les oiseaux, mais quelques animaux me faisait peur.
+Samedi, dans le matin j'ai fait de la programmation et puis j'ai un cours de golf avec une amie qui s'appelle Rebecca. J'aime le prof car il est drôle et amusant. Je suis allé à la maison avec mon frère qui commence les cours de golf cette semaine et j'ai préparé et j'ai pris mon déjeuner, qui était des œufs au bacon. C'était génial! Puis mes parents ont dit que nous irions au zoo. Becaucoup d'animaux étaient mignons comme les singes et les oiseaux, mais quelques animaux me faisaient peur.
 Dimanche, je me suis levé très tard à neuf heures et demie! Parce que c'était le dimanche le petit-déjeuner était les crêpes! Nous sommes allés au musée de sciences et c'était très intéressant et assez amusant. Le déjeuner était de la pizza à Pizza Express. Mais la meilleure chose était quand nous sommes allés au centre commercial, Westfields, pour regarder 'Avengers: Endgame' au cinéma. Et Parce que j'ai fini mes examens, mes parents ont dit que je pouvais manger des bonsbons.
 
 

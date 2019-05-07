@@ -6,7 +6,7 @@
 ##				
 ## - Short-Term Discomfort - Food Shortages
 ##                        - Debt due to Louis
-			  - Money being spent on Royal Fam while ppl were dieing
+##			  - Money being spent on Royal Fam while ppl were dieing
 						
 ##	        - New Ideas - The Enlightmenment
 ##	  	                - American Revoloution - it can work

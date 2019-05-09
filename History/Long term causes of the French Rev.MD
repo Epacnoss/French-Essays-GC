@@ -1,15 +1,15 @@
-Quetion: 'What were the long term causes of the French Revoloution?'
+# Quetion: 'What were the long term causes of the French Revoloution?'
 
-Plan:          - Esates - MC - Top Jobs && Justice && Natoional Assemble
-                        - Tax
-						- Noble
-				
-- Short-Term Discomfort - Food Shortages
-                        - Debt due to Louis
-						- Money being spent on Royal Fam while ppl were dieing
+## Plan:          - Esates - MC - Top Jobs && Justice && Natoional Assemble
+##                        - Tax
+##			  - Noble
+##				
+## - Short-Term Discomfort - Food Shortages
+##                        - Debt due to Louis
+##			  - Money being spent on Royal Fam while ppl were dieing
 						
-	        - New Ideas - The Enlightmenment
-	  	                - American Revoloution - it can work
+##	        - New Ideas - The Enlightmenment
+##	  	                - American Revoloution - it can work
 						
 						
 In the French Revoloution, there was a lot of change, but what caused it? Key areas to focus on are the Ancien Regime, the Short Term Discomfort and the New Ideas.
